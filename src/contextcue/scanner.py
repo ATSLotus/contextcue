@@ -21,7 +21,8 @@ SUPPORTED_EXTENSIONS = {
     ".json",
     ".md",
     ".R",
-    ".py"
+    ".py",
+    ".sql"
 }
 
 
